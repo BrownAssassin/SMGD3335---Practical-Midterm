@@ -1,3 +1,7 @@
-# INFR3335U-F2021-MidtermExamTemplate
+# SMGD3335 - Practical Midterm
 
-Midterm Exam Template for INFR3335U in the Fall 2021 Semester
+---
+
+> ## INFR3335U - Social & Multiplayer Game Design
+> ### Practical Midterm
+> - Midterm Exam Template/Submission for INFR3335U in the Fall 2021 Semester
